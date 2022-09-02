@@ -1,0 +1,11 @@
+{
+  "name": "stroperators",
+  "version": "0.0.1",
+  "description": "With Stroperators, you can use a long long long number to get the result of a calculation that is not raised to a power.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
